@@ -1,0 +1,463 @@
+region_name,year,gdp_value
+Piemonte,2014,122618.21
+Piemonte,2015,124935.26
+Piemonte,2016,128307.78
+Piemonte,2017,132629.01
+Piemonte,2018,135217.37
+Piemonte,2019,135773
+Piemonte,2020,124690.35
+Piemonte,2021,137549.76
+Piemonte,2022,146739.71
+Piemonte,2023,159055.31
+Piemonte,2024,164165.06
+Valle d Aosta,2014,4635.41
+Valle d Aosta,2015,4650.8
+Valle d Aosta,2016,4597.42
+Valle d Aosta,2017,4770.59
+Valle d Aosta,2018,4809.66
+Valle d Aosta,2019,4850.71
+Valle d Aosta,2020,4443.55
+Valle d Aosta,2021,4788.34
+Valle d Aosta,2022,5403.11
+Valle d Aosta,2023,5802.11
+Valle d Aosta,2024,5852.16
+Liguria,2014,46247.29
+Liguria,2015,46816.48
+Liguria,2016,47698.86
+Liguria,2017,48730.58
+Liguria,2018,48880.14
+Liguria,2019,49636.89
+Liguria,2020,45030.96
+Liguria,2021,49520.59
+Liguria,2022,53352.22
+Liguria,2023,58464.44
+Liguria,2024,58958.93
+Lombardia,2014,361868.9
+Lombardia,2015,369561.13
+Lombardia,2016,380020.82
+Lombardia,2017,389888.35
+Lombardia,2018,400386.45
+Lombardia,2019,404739.2
+Lombardia,2020,379669.75
+Lombardia,2021,423769.34
+Lombardia,2022,457351.85
+Lombardia,2023,490692.89
+Lombardia,2024,504729.96
+Abruzzo,2014,31574.65
+Abruzzo,2015,31804.98
+Abruzzo,2016,31953.48
+Abruzzo,2017,32743.78
+Abruzzo,2018,32806.28
+Abruzzo,2019,33040.92
+Abruzzo,2020,30574.73
+Abruzzo,2021,33616.68
+Abruzzo,2022,36420.35
+Abruzzo,2023,39536.1
+Abruzzo,2024,40760.57
+Molise,2014,6141.23
+Molise,2015,6253.04
+Molise,2016,6350.85
+Molise,2017,6502.72
+Molise,2018,6620.26
+Molise,2019,6755
+Molise,2020,6245.35
+Molise,2021,6848.03
+Molise,2022,7291
+Molise,2023,7874.47
+Molise,2024,7986.7
+Campania,2014,101114.43
+Campania,2015,103549.99
+Campania,2016,105337.88
+Campania,2017,107537.38
+Campania,2018,108682.75
+Campania,2019,110938.87
+Campania,2020,102588.1
+Campania,2021,112145.16
+Campania,2022,122639.05
+Campania,2023,133040.27
+Campania,2024,137510.98
+Puglia,2014,70644.57
+Puglia,2015,72096.39
+Puglia,2016,73394.97
+Puglia,2017,74392.32
+Puglia,2018,75556.19
+Puglia,2019,76516.12
+Puglia,2020,71959.8
+Puglia,2021,79660.86
+Puglia,2022,86403.29
+Puglia,2023,92160.48
+Puglia,2024,94507.89
+Basilicata,2014,11144.6
+Basilicata,2015,12010.71
+Basilicata,2016,12001.16
+Basilicata,2017,12101.6
+Basilicata,2018,12668.36
+Basilicata,2019,12504.33
+Basilicata,2020,11330.65
+Basilicata,2021,12967.58
+Basilicata,2022,13966.85
+Basilicata,2023,14836.27
+Basilicata,2024,15083.47
+Calabria,2014,32131.21
+Calabria,2015,32431.98
+Calabria,2016,32949.1
+Calabria,2017,33604.78
+Calabria,2018,33359.67
+Calabria,2019,33630.74
+Calabria,2020,31264.47
+Calabria,2021,34204.51
+Calabria,2022,36561.72
+Calabria,2023,39064.46
+Calabria,2024,40003.45
+Sicilia,2014,84090.89
+Sicilia,2015,85527.92
+Sicilia,2016,86176.88
+Sicilia,2017,87900.53
+Sicilia,2018,87938.98
+Sicilia,2019,89049.57
+Sicilia,2020,83725.38
+Sicilia,2021,92299.85
+Sicilia,2022,102503.44
+Sicilia,2023,107067.1
+Sicilia,2024,112029.68
+Sardegna,2014,32413.98
+Sardegna,2015,33496.92
+Sardegna,2016,33124.6
+Sardegna,2017,33750.12
+Sardegna,2018,34244.13
+Sardegna,2019,34959.95
+Sardegna,2020,32333.23
+Sardegna,2021,35700.02
+Sardegna,2022,38868.25
+Sardegna,2023,41800.26
+Sardegna,2024,43467.53
+Provincia Autonoma di Bolzano/Bozen,2014,22437.52
+Provincia Autonoma di Bolzano/Bozen,2015,22934.56
+Provincia Autonoma di Bolzano/Bozen,2016,23474.13
+Provincia Autonoma di Bolzano/Bozen,2017,24331.23
+Provincia Autonoma di Bolzano/Bozen,2018,25347.73
+Provincia Autonoma di Bolzano/Bozen,2019,26112.74
+Provincia Autonoma di Bolzano/Bozen,2020,24348.13
+Provincia Autonoma di Bolzano/Bozen,2021,26606.37
+Provincia Autonoma di Bolzano/Bozen,2022,29801.65
+Provincia Autonoma di Bolzano/Bozen,2023,32935.64
+Provincia Autonoma di Bolzano/Bozen,2024,33079.54
+Provincia Autonoma di Trento,2014,18954.38
+Provincia Autonoma di Trento,2015,18934.48
+Provincia Autonoma di Trento,2016,19239.18
+Provincia Autonoma di Trento,2017,19635.27
+Provincia Autonoma di Trento,2018,20417.53
+Provincia Autonoma di Trento,2019,20990.57
+Provincia Autonoma di Trento,2020,19727.91
+Provincia Autonoma di Trento,2021,21353.04
+Provincia Autonoma di Trento,2022,23730.26
+Provincia Autonoma di Trento,2023,25456.34
+Provincia Autonoma di Trento,2024,26055.72
+Veneto,2014,148957.46
+Veneto,2015,151974.78
+Veneto,2016,157045
+Veneto,2017,161147.13
+Veneto,2018,164480.29
+Veneto,2019,167403.97
+Veneto,2020,153458.49
+Veneto,2021,169965.8
+Veneto,2022,183956.46
+Veneto,2023,197226.12
+Veneto,2024,201245.73
+Friuli-Venezia Giulia,2014,34919.38
+Friuli-Venezia Giulia,2015,35867.79
+Friuli-Venezia Giulia,2016,36316
+Friuli-Venezia Giulia,2017,37064.09
+Friuli-Venezia Giulia,2018,38082.04
+Friuli-Venezia Giulia,2019,39007.17
+Friuli-Venezia Giulia,2020,36431.46
+Friuli-Venezia Giulia,2021,40494.97
+Friuli-Venezia Giulia,2022,42712.77
+Friuli-Venezia Giulia,2023,45063.15
+Friuli-Venezia Giulia,2024,46601.88
+Emilia-Romagna,2014,146323.67
+Emilia-Romagna,2015,148966.68
+Emilia-Romagna,2016,153805.67
+Emilia-Romagna,2017,158027.17
+Emilia-Romagna,2018,161556.51
+Emilia-Romagna,2019,162928.75
+Emilia-Romagna,2020,152125.33
+Emilia-Romagna,2021,168983.59
+Emilia-Romagna,2022,180468.76
+Emilia-Romagna,2023,194365.53
+Emilia-Romagna,2024,198395.23
+Toscana,2014,108877.96
+Toscana,2015,109949.16
+Toscana,2016,112443.94
+Toscana,2017,114868.5
+Toscana,2018,117534.22
+Toscana,2019,122134.12
+Toscana,2020,108018.04
+Toscana,2021,119472.41
+Toscana,2022,130459.87
+Toscana,2023,139527.64
+Toscana,2024,143563.3
+Umbria,2014,20845.27
+Umbria,2015,21439.67
+Umbria,2016,21545.43
+Umbria,2017,22055.64
+Umbria,2018,22680.08
+Umbria,2019,22832.79
+Umbria,2020,20985.61
+Umbria,2021,23023.83
+Umbria,2022,24727.95
+Umbria,2023,26868.16
+Umbria,2024,27673.58
+Marche,2014,39426.29
+Marche,2015,39568.53
+Marche,2016,40358.12
+Marche,2017,41229.28
+Marche,2018,41854.33
+Marche,2019,42596.26
+Marche,2020,39262.95
+Marche,2021,43161.87
+Marche,2022,46329.8
+Marche,2023,49374.18
+Marche,2024,50509.69
+Lazio,2014,189082.76
+Lazio,2015,189295.41
+Lazio,2016,197523.61
+Lazio,2017,200195.57
+Lazio,2018,203151.22
+Lazio,2019,206485.7
+Lazio,2020,190846.32
+Lazio,2021,204585.32
+Lazio,2022,227511.3
+Lazio,2023,241432.47
+Lazio,2024,246486.53
+Piemonte,2014,118823
+Piemonte,2015,121609.24
+Piemonte,2016,127227.62
+Piemonte,2017,132049.31
+Piemonte,2018,134604.91
+Piemonte,2019,136420.18
+Piemonte,2020,125977.84
+Piemonte,2021,140304.21
+Piemonte,2022,153199.04
+Piemonte,2023,165045.98
+Piemonte,2024,171719.88
+Valle d Aosta,2014,4491.94
+Valle d Aosta,2015,4526.99
+Valle d Aosta,2016,4558.72
+Valle d Aosta,2017,4749.74
+Valle d Aosta,2018,4787.87
+Valle d Aosta,2019,4873.83
+Valle d Aosta,2020,4489.43
+Valle d Aosta,2021,4884.23
+Valle d Aosta,2022,5640.95
+Valle d Aosta,2023,6020.64
+Valle d Aosta,2024,6121.47
+Liguria,2014,44815.87
+Liguria,2015,45570.14
+Liguria,2016,47297.3
+Liguria,2017,48517.59
+Liguria,2018,48658.75
+Liguria,2019,49873.49
+Liguria,2020,45495.92
+Liguria,2021,50512.25
+Liguria,2022,55700.73
+Liguria,2023,60666.45
+Liguria,2024,61672.2
+Lombardia,2014,350668.54
+Lombardia,2015,359722.71
+Lombardia,2016,376821.6
+Lombardia,2017,388184.22
+Lombardia,2018,398572.95
+Lombardia,2019,406668.44
+Lombardia,2020,383590.04
+Lombardia,2021,432255.37
+Lombardia,2022,477484.01
+Lombardia,2023,509174.39
+Lombardia,2024,527957.44
+Abruzzo,2014,30597.37
+Abruzzo,2015,30958.27
+Abruzzo,2016,31684.48
+Abruzzo,2017,32600.66
+Abruzzo,2018,32657.68
+Abruzzo,2019,33198.41
+Abruzzo,2020,30890.43
+Abruzzo,2021,34289.86
+Abruzzo,2022,38023.54
+Abruzzo,2023,41025.19
+Abruzzo,2024,42636.36
+Molise,2014,5951.15
+Molise,2015,6086.57
+Molise,2016,6297.38
+Molise,2017,6474.29
+Molise,2018,6590.27
+Molise,2019,6787.2
+Molise,2020,6309.84
+Molise,2021,6985.16
+Molise,2022,7611.94
+Molise,2023,8171.06
+Molise,2024,8354.25
+Campania,2014,97984.8
+Campania,2015,100793.29
+Campania,2016,104451.09
+Campania,2017,107067.35
+Campania,2018,108190.49
+Campania,2019,111467.67
+Campania,2020,103647.38
+Campania,2021,114390.88
+Campania,2022,128037.5
+Campania,2023,138051.12
+Campania,2024,143839.19
+Puglia,2014,68458.02
+Puglia,2015,70177.05
+Puglia,2016,72777.1
+Puglia,2017,74067.16
+Puglia,2018,75213.97
+Puglia,2019,76880.84
+Puglia,2020,72702.82
+Puglia,2021,81256.08
+Puglia,2022,90206.67
+Puglia,2023,95631.62
+Puglia,2024,98857.11
+Basilicata,2014,10799.66
+Basilicata,2015,11690.96
+Basilicata,2016,11900.13
+Basilicata,2017,12048.71
+Basilicata,2018,12610.98
+Basilicata,2019,12563.93
+Basilicata,2020,11447.64
+Basilicata,2021,13227.26
+Basilicata,2022,14581.66
+Basilicata,2023,15395.06
+Basilicata,2024,15777.61
+Calabria,2014,31136.7
+Calabria,2015,31568.58
+Calabria,2016,32671.72
+Calabria,2017,33457.9
+Calabria,2018,33208.57
+Calabria,2019,33791.05
+Calabria,2020,31587.29
+Calabria,2021,34889.46
+Calabria,2022,38171.13
+Calabria,2023,40535.79
+Calabria,2024,41844.39
+Sicilia,2014,81488.16
+Sicilia,2015,83251
+Sicilia,2016,85451.4
+Sicilia,2017,87516.33
+Sicilia,2018,87540.67
+Sicilia,2019,89474.04
+Sicilia,2020,84589.89
+Sicilia,2021,94148.16
+Sicilia,2022,107015.54
+Sicilia,2023,111099.68
+Sicilia,2024,117185.24
+Sardegna,2014,31410.73
+Sardegna,2015,32605.16
+Sardegna,2016,32845.74
+Sardegna,2017,33602.6
+Sardegna,2018,34089.02
+Sardegna,2019,35126.59
+Sardegna,2020,32667.08
+Sardegna,2021,36414.92
+Sardegna,2022,40579.19
+Sardegna,2023,43374.63
+Sardegna,2024,45467.89
+Provincia Autonoma di Bolzano/Bozen,2014,21743.04
+Provincia Autonoma di Bolzano/Bozen,2015,22324
+Provincia Autonoma di Bolzano/Bozen,2016,23276.51
+Provincia Autonoma di Bolzano/Bozen,2017,24224.88
+Provincia Autonoma di Bolzano/Bozen,2018,25232.92
+Provincia Autonoma di Bolzano/Bozen,2019,26237.21
+Provincia Autonoma di Bolzano/Bozen,2020,24599.54
+Provincia Autonoma di Bolzano/Bozen,2021,27139.17
+Provincia Autonoma di Bolzano/Bozen,2022,31113.49
+Provincia Autonoma di Bolzano/Bozen,2023,34176.13
+Provincia Autonoma di Bolzano/Bozen,2024,34601.85
+Provincia Autonoma di Trento,2014,18367.71
+Provincia Autonoma di Trento,2015,18430.4
+Provincia Autonoma di Trento,2016,19077.22
+Provincia Autonoma di Trento,2017,19549.45
+Provincia Autonoma di Trento,2018,20325.05
+Provincia Autonoma di Trento,2019,21090.62
+Provincia Autonoma di Trento,2020,19931.61
+Provincia Autonoma di Trento,2021,21780.63
+Provincia Autonoma di Trento,2022,24774.84
+Provincia Autonoma di Trento,2023,26415.13
+Provincia Autonoma di Trento,2024,27254.8
+Veneto,2014,144347.02
+Veneto,2015,147928.92
+Veneto,2016,155722.91
+Veneto,2017,160442.78
+Veneto,2018,163735.3
+Veneto,2019,168201.92
+Veneto,2020,155043.03
+Veneto,2021,173369.39
+Veneto,2022,192054.04
+Veneto,2023,204654.46
+Veneto,2024,210506.99
+Friuli-Venezia Giulia,2014,33838.58
+Friuli-Venezia Giulia,2015,34912.92
+Friuli-Venezia Giulia,2016,36010.27
+Friuli-Venezia Giulia,2017,36902.09
+Friuli-Venezia Giulia,2018,37909.55
+Friuli-Venezia Giulia,2019,39193.1
+Friuli-Venezia Giulia,2020,36807.64
+Friuli-Venezia Giulia,2021,41305.89
+Friuli-Venezia Giulia,2022,44592.94
+Friuli-Venezia Giulia,2023,46760.41
+Friuli-Venezia Giulia,2024,48746.48
+Emilia-Romagna,2014,141794.75
+Emilia-Romagna,2015,145000.9
+Emilia-Romagna,2016,152510.85
+Emilia-Romagna,2017,157336.46
+Emilia-Romagna,2018,160824.75
+Emilia-Romagna,2019,163705.37
+Emilia-Romagna,2020,153696.11
+Emilia-Romagna,2021,172367.51
+Emilia-Romagna,2022,188412.81
+Emilia-Romagna,2023,201686.13
+Emilia-Romagna,2024,207525.31
+Toscana,2014,105508.03
+Toscana,2015,107022.1
+Toscana,2016,111497.32
+Toscana,2017,114366.43
+Toscana,2018,117001.86
+Toscana,2019,122716.29
+Toscana,2020,109133.39
+Toscana,2021,121864.86
+Toscana,2022,136202.58
+Toscana,2023,144782.82
+Toscana,2024,150170.03
+Umbria,2014,20200.08
+Umbria,2015,20868.91
+Umbria,2016,21364.05
+Umbria,2017,21959.24
+Umbria,2018,22577.35
+Umbria,2019,22941.62
+Umbria,2020,21202.3
+Umbria,2021,23484.88
+Umbria,2022,25816.45
+Umbria,2023,27880.12
+Umbria,2024,28947.11
+Marche,2014,38205.99
+Marche,2015,38515.14
+Marche,2016,40018.37
+Marche,2017,41049.07
+Marche,2018,41664.76
+Marche,2019,42799.29
+Marche,2020,39668.36
+Marche,2021,44026.2
+Marche,2022,48369.19
+Marche,2023,51233.82
+Marche,2024,52834.13
+Lazio,2014,183230.38
+Lazio,2015,184256.01
+Lazio,2016,195860.75
+Lazio,2017,199320.55
+Lazio,2018,202231.07
+Lazio,2019,207469.94
+Lazio,2020,192816.91
+Lazio,2021,208682.17
+Lazio,2022,237526.11
+Lazio,2023,250525.81
+Lazio,2024,257829.75
