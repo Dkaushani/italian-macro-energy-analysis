@@ -1,4 +1,4 @@
-# italian-macro-energy-analysis
+# Italian_macro_energy_analysis
 
 # Regional GDP Resilience to Global Energy Shocks (Italy, 2014–2024)
 
