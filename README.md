@@ -19,8 +19,4 @@ This project models the economic resilience of 21 Italian regions against intern
 * **High-Oil Regimes:** Evaluated regional GDP growth across 6 high-oil price years (2014, 2018, 2021–2024).
 * **Economic Scale:** Identified structural growth variance between major industrial hubs (e.g., Lombardia, Veneto) and smaller regional economies.
 
-## How to Restore Database
-1. Open MySQL Workbench.
-2. Go to **Server -> Data Import**.
-3. Select **Import from Self-Contained File** and choose `sql/schema_and_data_dump.sql`.
-4. Click **Start Import**.
+
